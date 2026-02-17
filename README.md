@@ -40,10 +40,10 @@ Additional blocks for polish and variety:
 
 ---
 
-## Global Styles Setup (Do This FIRST!)
+## Global Styles Setup
 
 ### Step 1: Set Up Global Colors
-Navigate to: **Site Settings → Global Colors**
+
 
 Add these exact colors:
 
@@ -59,7 +59,7 @@ Add these exact colors:
 | Background Grey | #F2F2F2 | Section backgrounds |
 
 ### Step 2: Set Up Global Typography
-Navigate to: **Site Settings → Global Fonts**
+
 
 Set ALL fonts to **Poppins** family with these settings:
 
