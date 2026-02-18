@@ -22,11 +22,6 @@
 
 ---
 
-## Notes
-- These mobile sizes are more compact but still accessible.
-- Never go below these values for legibility.
-- Test on real devices to ensure readability.
 
----
 
 _Last updated: February 2026_
